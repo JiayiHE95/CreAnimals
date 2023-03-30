@@ -1,4 +1,4 @@
-# CreAnimals
+# CréAnimals
 
 ## Objectif
 Dans le cadre de la valorisation des connaissances acquises au cours d’un **DUT en 1 an - Spécialité Informatique** à l’IUT de Montpellier-Sète, le projet **CréAnimals** consiste en un site web en ligne où un utilisateur peut collectionner des créatures de manière aléatoire qui peuvent être plus ou moins
