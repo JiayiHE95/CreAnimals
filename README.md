@@ -1,20 +1,35 @@
-# CréAnimals
+<div align="center">
 
-## Objectif
-Dans le cadre de la valorisation des connaissances acquises au cours d’un **DUT en 1 an - Spécialité Informatique** à l’IUT de Montpellier-Sète, le projet **CréAnimals** consiste en un site web en ligne où un utilisateur peut collectionner des créatures de manière aléatoire qui peuvent être plus ou moins
-rares comme dans les jeux de type gacha*.
+# 🐾 CréAnimals
 
-Pouvant être qualifié de jeu, CréAnimal offre aux utilisateurs la possibilité, comme étudié avec les profils de joueurs de Bartle* d’essayer d’attraper toutes les créatures en visant les créatures les plus rares.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+  <img alt="Creative Commons License" style="border-width:0"
+       src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />
+</a><br />
+Ce projet est sous licence
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+  Creative Commons Attribution – NonCommercial – NoDerivatives 4.0 International
+</a>.
 
-## Technologies
-Afin de mettre en œuvre ce projet, le site Web a été développé principalement avec du PHP pour la communication avec la base de données. et pour l’interface utilisateur, du CSS et su Javascript.
+</div>
 
-## Documentation
-Pour plus de détails techniques, veuillez consulter le rapport se trouvant à la racine du dépôt.
+## 🎯 Objectif
 
-## Auteurs
-Cécile BURILLE
+Dans le cadre du **DUT Informatique en un an** (IUT de Montpellier–Sète), **CréAnimals** est un site web ludique où l’utilisateur peut **collectionner des créatures générées aléatoirement**, avec des **raretés différentes** à la manière des jeux *gacha*.  
+En s’appuyant sur la typologie des joueurs de *Bartle*, l’expérience vise notamment les profils « collectionneurs », encouragés à **attraper toutes les créatures**, en particulier les plus rares.
 
-Jiayi HE
+## 🛠️ Technologies
 
-Enzo MARTINEZ
+- **PHP** — Communication avec la base de données et logique serveur  
+- **CSS** — Mise en forme et design de l’interface  
+- **JavaScript** — Interactivité côté client
+
+## 📄 Documentation
+
+Pour les détails techniques (architecture, choix de conception…), consulter le **rapport** situé à la **racine du dépôt**.
+
+## 🤝 Contributeurs
+
+- [**Jiayi He**](https://github.com/JiayiHE95)  
+- [**Enzo Martinez**](https://github.com/enzo1000)  
+- **Cécile Burille**
