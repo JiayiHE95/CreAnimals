@@ -11,6 +11,9 @@ Ce projet est sous licence
   Creative Commons Attribution – NonCommercial – NoDerivatives 4.0 International
 </a>.
 
+---
+**Juin 2022**
+
 </div>
 
 ## 🎯 Objectif
